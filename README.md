@@ -24,8 +24,7 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code"></li>
 </ul>
 <p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&amp;show_icons=true&amp;theme=radical">
+<a href="https://github.com/trongthaohub">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&amp;theme=radical&amp;layout=compact&amp;exclude_lang=java+r">
 </a>
 </p>
