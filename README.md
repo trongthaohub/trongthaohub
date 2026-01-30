@@ -1,30 +1,37 @@
-# Hi 👋, I'm Trọng Thảo
-
-### A passionate frontend,Backend developer from VietNam
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trongthaohub&label=Profile views&color=0e75b6&style=flat" alt="trongthaohub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trongthaohub" alt="trongthaohub" /></a> </p>
-
-- 🌱 I'm currently learning **Typescript**
-
-- 👨‍💻 All of my projects are available at **[https://noko.lol/trongthaomm](https://noko.lol/trongthaomm)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/trongthaohub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="trongthaohub" height="30" width="40" /></a>
-<a href="https://fb.com/trongthao.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trongthao.dev" height="30" width="40" /></a>
-<a href="https://instagram.com/trthao_etail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trthao_etail" height="30" width="40" /></a>
-<a href="https://youtube.com/trongthaoofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trongthaoofficial" height="30" width="40" /></a>
-<a href="https://discord.gg/TrThaoDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TrThaoDev" height="30" width="40" /></a>
+  <h3 id="hi-there">Hi there 👋</h3>
+<h2>I'm Trong Thao</h2>
+<h3> 💻 &nbsp;About Me </h3>
+<ul>
+<li>🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.</li>
+<li>🎓 &nbsp; Studying Software Enginering at Brigham Younh University Idaho.</li>
+</ul>
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<ul>
+<li>🌐 &nbsp;
+<img src="https://img.shields.io/badge/-HTML-333333?style=flat&amp;logo=HTML5" alt="HTML">
+<img src="https://img.shields.io/badge/-CSS-333333?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">
+<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&amp;logo=javascript" alt="JavaScript">
+<img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap">
+<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&amp;logo=node.js" alt="Node.js">
+<img src="https://img.shields.io/badge/-React-333333?style=flat&amp;logo=react" alt="React"></li>
+<li>🛢 &nbsp;
+<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&amp;logo=mongodb" alt="MongoDB"></li>
+<li>⚙️ &nbsp;
+<img src="https://img.shields.io/badge/-Git-333333?style=flat&amp;logo=git" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&amp;logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/-Markdown-333333?style=flat&amp;logo=markdown" alt="Markdown"></li>
+<li>🔧 &nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code"></li>
+</ul>
+<p>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cdthomp1&amp;show_icons=true&amp;theme=radical">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cdthomp1&amp;theme=radical&amp;layout=compact&amp;exclude_lang=java+r">
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trongthaohub&show_icons=true&locale=en&layout=compact" alt="trongthaohub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trongthaohub&show_icons=true&locale=en" alt="trongthaohub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trongthaohub&" alt="trongthaohub" /></p>
-
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<p align="center">
+<a href="https://trongthao.tech"><img src="https://img.shields.io/badge/-trongthao.tech-3423A6?style=flat-square&amp;logo=Google-Chrome&amp;logoColor=white"></a>
+<a href="https://facebook.com/trongthao98789"><img src="https://img.shields.io/badge/-Nguyễn Trọng Thảo-0077B5?style=flat-square&amp;logo=Facebook&amp;logoColor=white"></a>
+<a href="mailto:thaonguyentrong08@gamil.com"><img src="https://img.shields.io/badge/thaonguyentrong08@gamil.com-D14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white"></a>
+</p> 
